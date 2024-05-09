@@ -1,6 +1,6 @@
 # Matthew Lim
 
-#### Technical Skills: TODO
+#### Technical Skills: TODO 
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
