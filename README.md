@@ -1,20 +1,18 @@
 # Matthew Lim
 
-#### Technical Skills: TODO 
+#### Technical Skills: Python, Java, SQL, C++, Pandas, Machine Learning, Object-Oriented Programming, Matplotlib, Seaborn, Scikit-learn, NLTK, Tensorflow, Excel, Adobe Creative Cloud, Decking, Data Visualization 
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education			        		
+- B.S., Data Science | University of California, Berkeley (_May 2025_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Data Science Contractor @ Snap Inc. (_Sep 2023 – Dec 2023_)**
+- Web scraped user post data from Twitter and Reddit, identifying trends in marginalized communities
+- Employed NLP techniques to analyze and identify recurring patterns in the collected data, facilitating the aggregation of trends from multiple sites in a user-friendly and accessible Plotly dashboard
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Consulting Solutions Intern @ PricewaterhouseCoopers (PwC) (_Jun 2023 – Jul 2023_)**
+- Delivered a client strategy for CareerVillage, ranking top 7% (6/77) of PwC’s national consulting interns
+- Proficiently analyzed a comprehensive dataset containing 37,000+ rows, employing a synergistic approach that combined Excel for data preprocessing, Python natural language processing techniques (e.g. sentiment analysis and text classification) for content mining, and Microsoft Power BI for creating interactive data visualizations, facilitating data-driven strategies and informed decision-making
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
