@@ -3,7 +3,7 @@
 #### Technical Skills: Python, Java, SQL, C++, Pandas, Machine Learning, Object-Oriented Programming, Matplotlib, Seaborn, Scikit-learn, NLTK, Tensorflow, Excel, Adobe Creative Cloud, Decking, Data Visualization 
 
 ## Education			        		
-B.S., Data Science | University of California, Berkeley (_May 2025_)
+B.A., Data Science | University of California, Berkeley (_May 2025_)
 
 ## Work Experience
 **Data Science Contractor @ Snap Inc.**
