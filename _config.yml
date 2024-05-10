@@ -1,6 +1,10 @@
 title: Matthew Lim
 logo: /assets/img/headshot-modified.png
-theme: jekyll-theme-minimalist
+theme: jekyll-remote-theme
+remote_theme: BDHU/minimalist
+
+plugins:
+  - jekyll-remote-theme
 
 color-scheme: auto/light/dark
 favicon: true
