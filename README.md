@@ -1,6 +1,5 @@
-# Matthew Lim
-
-#### Technical Skills: Python, Java, SQL, C++, Pandas, Machine Learning, Object-Oriented Programming, Matplotlib, Seaborn, Scikit-learn, NLTK, Tensorflow, Excel, Adobe Creative Cloud, Decking, Data Visualization 
+## About Me
+Hey there! I'm Matthew — a rising senior data science major born and raised in the Bay Area. I'm passionate about leveraging data to transform businesses and revolutionize decision-making processes with a profound social impact in mind. Currently, I'm honing my data science skills at UC Berkeley through coursework and exciting extracurricular projects.
 
 ## Education			        		
 B.A., Data Science | University of California, Berkeley (_May 2025_)
