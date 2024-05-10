@@ -7,11 +7,13 @@ B.S., Data Science | University of California, Berkeley (_May 2025_)
 
 ## Work Experience
 **Data Science Contractor @ Snap Inc.**
+
 _Sep 2023 – Dec 2023_
 - Web scraped user post data from Twitter and Reddit, identifying trends in marginalized communities
 - Employed NLP techniques to analyze and identify recurring patterns in the collected data, facilitating the aggregation of trends from multiple sites in a user-friendly and accessible Plotly dashboard
 
 **Consulting Solutions Intern @ PricewaterhouseCoopers (PwC)**
+
 _Jun 2023 – Jul 2023_
 - Delivered a client strategy for CareerVillage, ranking top 7% (6/77) of PwC’s national consulting interns
 - Proficiently analyzed a comprehensive dataset containing 37,000+ rows, employing a synergistic approach that combined Excel for data preprocessing, Python natural language processing techniques (e.g. sentiment analysis and text classification) for content mining, and Microsoft Power BI for creating interactive data visualizations, facilitating data-driven strategies and informed decision-making
