@@ -17,7 +17,7 @@ B.S., Data Science | University of California, Berkeley (_May 2025_)
 - Proficiently analyzed a comprehensive dataset containing 37,000+ rows, employing a synergistic approach that combined Excel for data preprocessing, Python natural language processing techniques (e.g. sentiment analysis and text classification) for content mining, and Microsoft Power BI for creating interactive data visualizations, facilitating data-driven strategies and informed decision-making
 
 ## Projects
-### Music Mate
+### MusicMate
 _Python, Pandas, Seaborn, Scikit Learn, Random Forest_
 [GitHub](https://github.com/matthewlimm/musicmate)
 
