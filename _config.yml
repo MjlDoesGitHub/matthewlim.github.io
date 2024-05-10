@@ -1,8 +1,15 @@
+# Basic Information
 title: Matthew Lim
+position: B.A., Data Science
+affiliation: University of California, Berkeley
+affiliation_link: https://www.berkeley.edu/
+email: matthewlim [at] berkeley.edu
+
+# Links
+github_link: https://github.com/matthewlimm
+linkedin: https://www.linkedin.com/in/matthewjlim25/
+
+# Images
 logo: /assets/img/headshot-modified.png
-#description:
-#show_downloads: true
+
 theme: jekyll-theme-minimal
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
