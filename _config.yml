@@ -1,14 +1,6 @@
-# Basic Information
 title: Matthew Lim
-
-# Links
-github_link: https://github.com/matthewlimm
-linkedin: https://www.linkedin.com/in/matthewjlim25/
-
-# Images
 logo: /assets/img/headshot-modified.png
-
-# Misc.
 theme: jekyll-theme-minimalist
+
 color-scheme: auto/light/dark
 favicon: true
