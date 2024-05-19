@@ -1,5 +1,5 @@
 ## About Me
-Hey there! I'm Matthew — a rising senior data science major born and raised in the Bay Area. I'm passionate about leveraging data to transform businesses and revolutionize decision-making processes with a profound social impact in mind. Currently, I'm honing my data science skills at UC Berkeley through coursework and exciting extracurricular projects.
+Hello! I'm Matthew, a rising senior majoring in Data Science at UC Berkeley, and a proud Bay Area native. I am passionate about using data to drive business transformation and enhance decision-making processes, always with a focus on creating a positive social impact. Currently, I am developing my data science expertise through both rigorous coursework and engaging extracurricular projects.
 
 ## Education			        		
 B.A., Data Science | University of California, Berkeley (_May 2025_)
